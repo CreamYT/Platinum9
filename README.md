@@ -2,5 +2,5 @@
 
 This is a quick and dirty theme meant to approximate (but not really be too pixel accurate) the MacOS 9 (or System 7) theme.
 
-![System 7](http://i.imgur.com/T3KrxCv.png)
+
 
