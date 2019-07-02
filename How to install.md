@@ -28,3 +28,12 @@ $ sudo update-alternatives --config default.plymouth
 Look for System8 and enter the number then press enter.
 Afterwards type
 $ sudo update-initramfs -u
+
+Panel:
+First open terminal and type
+$ sudo apt-get install xfce4-appmenu-plugin
+Then goto Settings, XFCE Panel Switch, Press the open folder button and navigate to the Panel folder, Select OS9.
+Your Panel Has now been Changed to mine!
+
+Finally sit back and play your games or whatever you do with a wonderful nostalgic feel!
+Your welcome!
