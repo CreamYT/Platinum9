@@ -36,5 +36,8 @@ First open terminal and type
 Then goto Settings, XFCE Panel Switch, Press the open folder button and navigate to the Panel folder, Select OS9.
 Your Panel Has now been Changed to mine!
 
+## Firefox:
+Open the Platinum9 file in Firefox Theme
+
 Finally sit back and play your games or whatever you do with a wonderful nostalgic feel!
 Your welcome!
