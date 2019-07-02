@@ -39,5 +39,9 @@ Your Panel Has now been Changed to mine!
 ## Firefox:
 Open the Platinum9 file in Firefox Theme
 
+## Cursors:
+Take MacOS9CURSORS and put them into ~/.icons enter Settings, Mouse and Trackpad, Theme, and Select Platinum9
+
+## Conclusion:
 Finally sit back and play your games or whatever you do with a wonderful nostalgic feel!
 Your welcome!
